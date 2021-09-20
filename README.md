@@ -27,4 +27,5 @@ Chintu was an organiser of an event and wanted to broadcast a message to the reg
 - <a href='https://github.com/Jayita10'>Jayita Pramanik</a>
 - <a href='https://github.com/ashutosh887'>ashutosh887</a>
 - <a href='https://github.com/nikhilisaac'>Nikhil Isaac</a>
+- <a href='https://github.com/yash37158'>Yash Sharma</a>
 - <a href='https://github.com/Aarushijain-06'>Aarushi Jain</a>
