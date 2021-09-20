@@ -10,7 +10,7 @@ We aim to build a free Opensource API that will serve as an alternative to paid 
 Chintu was an organiser of an event and wanted to broadcast a message to the registrerd participants. But to broadcast teh message , he had to same all th emobile numbers and then boradcast the message. There were other options of using API's ( which cost hell high!). Chintu felt need of a free API/ website that can help him out. He just simply send tha message and all phone numbers ( in Comma separated format ) and rest job was done by the solution, 
 
 ### TO-DO's
-- go through the whatsapp busssiness API documentation.
+- go through the whatsapp buisness API documentation.
 - building roadmap of entire project
 - Brainstorming
 
