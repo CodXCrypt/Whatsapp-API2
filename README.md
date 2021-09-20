@@ -7,10 +7,10 @@
 We aim to build a free Opensource API that will serve as an alternative to paid API's. Our API will help developers make efficient products that caters to needs of organisations that use WhatsApp as a mode of communication.
 
 ### Use case
-Chintu was an organiser of an event and wanted to broadcast a message to the registrerd participants. But to broadcast teh message , he had to same all th emobile numbers and then boradcast the message. There were other options of using API's ( which cost hell high!). Chintu felt need of a free API/ website that can help him out. He just simply send tha message and all phone numbers ( in Comma separated format ) and rest job was done by the solution, 
+Chintu was an organiser of an event and wanted to broadcast a message to the registered participants. But to broadcast the message , he had to select all the phone numbers and then broadcast the message. This is a time consuming and tiring job. There were other options of using API's ( which cost hell high!). Chintu felt need of a free API/ website that can help him out. He just simply send the message and all phone numbers ( in Comma separated format ) and rest job was done by the solution. 
 
 ### TO-DO's
-- Go through the whatsapp buisness API documentation.
+- Go through the WhatsApp buisness API documentation.
 - Building roadmap of entire project
 - Brainstorming
 
