@@ -36,3 +36,4 @@ Chintu was an organiser of an event and wanted to broadcast a message to the reg
 - <a href='https://github.com/theMillenniumFalcon'>Nishank Priydarshi</a>
 - [Zainuddeen Abdul Muiz](https://github.com/Zain-Muiz)
 - <a href='https://github.com/vishal-codes'>Vishal Shinde</a>
+- <a href='https://github.com/SaNsK11'>Sanskar Goyal</a>
