@@ -23,6 +23,7 @@ Chintu was an organiser of an event and wanted to broadcast a message to the reg
 - [Prathamesh Borse](https://github.com/prathamesh-borse)
 - <a href='https://github.com/kanitmann'>kanitmann</a>
 - <a href='https://github.com/ANCHAL628'>ANCHAL628</a>
+- <a href='https://github.com/96karthikhebbar'>Karthik Hebbar</a>
 - <a href='https://github.com/priyakumari02'>priyakumari02</a>
 - <a href='https://github.com/Jayita10'>Jayita Pramanik</a>
 - <a href='https://github.com/ashutosh887'>ashutosh887</a>
@@ -30,3 +31,7 @@ Chintu was an organiser of an event and wanted to broadcast a message to the reg
 - <a href='https://github.com/yash37158'>Yash Sharma</a>
 - <a href='https://github.com/Aarushijain-06'>Aarushi Jain</a>
 - <a href='https://github.com/aashimawadhwa'>Aashima Wadhwa</a>
+- <a href='https://github.com/Ayushi7456'>Ayushi Gupta</a>
+- <a href='https://github.com/MukulKolpe'>Mukul Kolpe</a>
+- <a href='https://github.com/theMillenniumFalcon'>Nishank Priydarshi</a>
+- [Zainuddeen Abdul Muiz](https://github.com/Zain-Muiz)
