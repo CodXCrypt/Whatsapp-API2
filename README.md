@@ -30,3 +30,5 @@ Chintu was an organiser of an event and wanted to broadcast a message to the reg
 - <a href='https://github.com/yash37158'>Yash Sharma</a>
 - <a href='https://github.com/Aarushijain-06'>Aarushi Jain</a>
 - <a href='https://github.com/MukulKolpe'>Mukul Kolpe</a>
+- <a href='https://github.com/theMillenniumFalcon'>Nishank Priydarshi</a>
+- [Zainuddeen Abdul Muiz](https://github.com/Zain-Muiz)
