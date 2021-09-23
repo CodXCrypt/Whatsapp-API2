@@ -1,7 +1,7 @@
 name: Support💁‍♂️
 description: Raise a support ticket
-title: "[Feature]: Describe your Feature/Suggestion here "
-labels: [goal:addition]
+title: "[Support]: Describe your requirement here. "
+labels: [support]
 body:
   - type: markdown
     attributes:
