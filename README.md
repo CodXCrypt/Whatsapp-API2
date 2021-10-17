@@ -41,3 +41,4 @@ Chintu was an organiser of an event and wanted to broadcast a message to the reg
 - [Harsh Rastogi](https://github.com/theharshrastogi)
 - [Euhid Aman](https://github.com/euhidaman) 
 - [Harshit Aditya](https://github.com/HarshitAditya27)
+- [Omkar Kulkarni](https://github.com/Omkar0114)
